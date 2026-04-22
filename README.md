@@ -4,9 +4,9 @@
 Dự án thực hiện quy trình kiểm thử toàn diện cho hệ thống quản lý cửa hàng bán lẻ PRS PST.
 
 ## Các kỹ thuật đã áp dụng
-- **Phân tích giá trị biên (Boundary Value Analysis)**
-- **Bảng quyết định (Decision Table)** cho các logic giảm giá và thanh toán.
-- **Kiểm thử chức năng (Functional Testing)**.
+- **Phân tích giá trị biên (Boundary Value Analysis):** Áp dụng để kiểm thử các trường dữ liệu số, số lượng sản phẩm và giá tiền.
+- **Kiểm thử chức năng (Functional Testing):** Kiểm tra tính đúng đắn của các tính năng cốt lõi như quản lý hàng hóa, giỏ hàng và thanh toán.
+- **Kiểm thử hộp đen (Black-box Testing):** Tập trung vào trải nghiệm và yêu cầu của người dùng cuối.
 
 ## Cấu trúc tài liệu
 1. **Test Plan:** Chiến lược và phạm vi kiểm thử.
